@@ -8,7 +8,7 @@ p{
 }
 
 /* ================
-PC用のスタイル
+PC用のスタイル test
 ================= */
 @media screen and (min-width:768px){
 /* 横幅設定 */
@@ -1098,7 +1098,7 @@ footer{
   }
 
   #sns-footer{
-    
+    display:block;
     width:100%;
   }
 
